@@ -20,6 +20,6 @@ Plots_Control.ipynb: Contains the code used to plot the optimal control results.
 
 Prelims: Contains code to plot data visualizations.
 
-SIR_Model(0--4).ipynb: Contains the code for the optimal control scenarios.
+SIR Models I and R.ipynb: Contains the code for the optimal control scenarios, Illustrative and realistic.
 
 
